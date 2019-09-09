@@ -1,0 +1,11 @@
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\obj\Debug\netcoreapp2.0\Test Program 1.csprojAssemblyReference.cache
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\obj\Debug\netcoreapp2.0\Test Program 1.csproj.CoreCompileInputs.cache
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\obj\Debug\netcoreapp2.0\Test Program 1.AssemblyInfoInputs.cache
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\obj\Debug\netcoreapp2.0\Test Program 1.AssemblyInfo.cs
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\bin\Debug\netcoreapp2.0\Test Program 1.deps.json
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\bin\Debug\netcoreapp2.0\Test Program 1.runtimeconfig.json
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\bin\Debug\netcoreapp2.0\Test Program 1.runtimeconfig.dev.json
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\bin\Debug\netcoreapp2.0\Test Program 1.dll
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\bin\Debug\netcoreapp2.0\Test Program 1.pdb
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\obj\Debug\netcoreapp2.0\Test Program 1.dll
+H:\Subjects\Computer Science\VisualStudio\Test Program 1\Test Program 1\obj\Debug\netcoreapp2.0\Test Program 1.pdb
