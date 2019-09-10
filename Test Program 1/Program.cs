@@ -1,4 +1,3 @@
-  
 using System;
 
 namespace Test_Program_1
@@ -37,7 +36,6 @@ namespace Test_Program_1
         static void print(string str)
         {
             Console.WriteLine(str);
-        }
-          
+        }          
     }
 }
