@@ -12,7 +12,7 @@ namespace Test_Program_1
             int year = 0;
             string answer = "";
 
-            Console.WriteLine("Hey, what's your name? ");
+            print("Hey, what's your name? ");
             name = Console.ReadLine();
             Console.WriteLine("Hey, {0}, I'm Alan. How old are you?", name);
             age = Convert.ToInt32(Console.ReadLine());
@@ -26,12 +26,18 @@ namespace Test_Program_1
             }
             else
             {
-                Console.WriteLine("Oh no!");
-                Console.WriteLine("I've been alseep for a long time, my memory must be getting worse! What did I get wrong?");
+                print("Oh no!");
+                print("I've been alseep for a long time, my memory must be getting worse! What did I get wrong?");
                 answer = Console.ReadLine();
                 Console.WriteLine("Darn, getting {0} wrong... That's pretty bad...", answer);
             }
             Console.ReadLine();
         }
+      
+        static void print(string str)
+        {
+            Console.WriteLine(str);
+        }
+          
     }
 }
