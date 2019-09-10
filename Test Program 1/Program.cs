@@ -1,4 +1,5 @@
-﻿using System;
+  
+using System;
 
 namespace Test_Program_1
 {
@@ -26,7 +27,9 @@ namespace Test_Program_1
             else
             {
                 Console.WriteLine("Oh no!");
-                Console.WriteLine("I've been alseep for a long time, my memory must be getting worse!");
+                Console.WriteLine("I've been alseep for a long time, my memory must be getting worse! What did I get wrong?");
+                answer = Console.ReadLine();
+                Console.WriteLine("Darn, getting {0} wrong... That's pretty bad...", answer);
             }
             Console.ReadLine();
         }
